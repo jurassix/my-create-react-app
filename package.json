@@ -20,5 +20,8 @@
   },
   "devDependencies": {
     "flow-bin": "^0.63.1"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
   }
 }
